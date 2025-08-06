@@ -1,5 +1,6 @@
-## Hi, I'm Jeimy 👋
-- 🧪 Clinical Microbiologist turned AI Developer
-- 🎓 Master's in Computer Science – WGU
-- 💻 Skilled in Python, Bash, Git, and automation
+👋 About Me
+
+Hi! I’m Jeimy Mercera — a Clinical Microbiologist turned AI Developer in training. I’m currently earning my MSCS-AI from WGU, and I love turning command-line chaos into clean, automated workflows. 🚀
+
+GitHub: @jcmercera
 
